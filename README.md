@@ -2,7 +2,7 @@
                                                
 <h3 align="center">TMU CS Graduate</h3>
 
-- 🔭 I’m currently working on **my own telepharmacy app**
+- 🔭 I’m currently working on **my own Telepharmacy app**
 
 - 👯 I’m looking to collaborate on **App Development projects**
 
